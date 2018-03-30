@@ -1,0 +1,6 @@
+\libraries
+.idea/
+target/
+justDoneMavenTestNg.iml
+target/test-classes/TestCases/FirstTest.class
+target/test-classes/PageObject/loginPage.class
