@@ -3,6 +3,7 @@ package config;
 import org.openqa.selenium.WebDriver;
 
 public class Configuration {
+	/* This is a configuration class which holds all the configuration variables*/
 	public static WebDriver driver=null;
 	public static class url{
 		
