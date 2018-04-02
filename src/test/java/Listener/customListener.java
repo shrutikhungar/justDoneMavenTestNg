@@ -15,6 +15,9 @@ import config.Configuration;
 import Utilities.Driver;
 
 public class customListener implements ITestListener {
+	/*This class listens to the status of each @Test function and assign pass and fail to it.
+	 * Pass status: calls the screenshot function in the utility folder
+	 * Fail status: calls the screenshot function in the utility folder*/
 String status;	
 String testCaseName;
 
